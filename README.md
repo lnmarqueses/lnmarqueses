@@ -1,4 +1,4 @@
-👋 Hi, my name is @lnmarqueses and I want to be a web developer. I started my journey on November 2021. 
+👋 Hi, my name is Lara and I want to be a web developer. I started my journey on November 2021. 
 👀I am a medical professional by day and I love playing the piano, hiking and running.
 
 🌱 I’m currently learning HTML, CSS and Java.
